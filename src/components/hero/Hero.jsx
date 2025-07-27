@@ -1,5 +1,5 @@
  import "./Hero.css"
- import HeroImage from "../../block/HeroBlock/Heroimage";
+ import HeroImage from "../../block/HeroBlock/HeroImage";
  import HeroText from "../../block/heroBlock/HeroText";
  
  
