@@ -1,0 +1,7 @@
+.Hero-container{
+    display: flex;
+    justify-content: space-between;
+    img{
+        max-width: 50%;
+    }
+}

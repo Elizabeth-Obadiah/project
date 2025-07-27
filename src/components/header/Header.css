@@ -1,0 +1,28 @@
+.container{
+display: flex;
+justify-content: space-between;
+}
+.MainContainer{
+    display: flex;
+    margin: 20px;
+    padding: 10px ;
+    gap: 10px;
+}
+button{
+    padding: 10px;
+    border-radius: 10px;
+    background-color: white;
+    color: black;
+}
+
+@media (max-width: 768px){
+    nav{
+        display: none;
+    }
+    .menu{
+        display: none;
+    }
+    .btn{
+        display: none;
+    }
+}
